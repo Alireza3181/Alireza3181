@@ -7,7 +7,8 @@
 - 📝 [Telegram](https://t.me/Alir_aa)
 - ✉️ Email: ar.af3181@gmail.com
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alireza3181&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=dark)
+
 
 <!---
 Alireza3181/Alireza3181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
