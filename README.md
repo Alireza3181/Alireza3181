@@ -7,7 +7,8 @@
 - 📝 [Telegram](https://t.me/Alir_aa)
 - ✉️ Email: ar.af3181@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alireza3181&show_icons=true&theme=tokyonight)
+![GitHub Stats by Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alireza3181&theme=radical)
+
 
 
 
