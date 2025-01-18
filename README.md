@@ -3,8 +3,8 @@
 
 ## 🔗 Let's Connect!
 - 📝 [LinkedIn](https://linkedin.com/in/alireza3181)
-- 📝 [Instagram](https://instagram.com/alir_aa)
 - 📝 [Telegram](https://t.me/Alir_aa)
+- 📝 [Instagram](https://instagram.com/alir_aa)
 - ✉️ Email: ar.af3181@gmail.com
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
