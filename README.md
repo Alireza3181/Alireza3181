@@ -7,7 +7,8 @@
 - 📝 [Instagram](https://instagram.com/alir_aa)
 - ✉️ Email: ar.af3181@gmail.com
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=radical" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=radical)
+
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
 <!---
 Alireza3181/Alireza3181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
