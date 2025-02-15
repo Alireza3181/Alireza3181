@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&fontSize=30&fontColor=FFFAFA&animation&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad2d2d&height=180&section=header&fontSize=30&fontColor=FFFAFA&animation&fontAlignY=35"/>
 
 <div align="center"> 
 <a align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
@@ -20,4 +20,4 @@
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad2d2d&height=120&section=footer"/>
