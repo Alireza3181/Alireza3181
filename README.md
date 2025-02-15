@@ -15,7 +15,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=radical)
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
-<br><br><br>
+<br>
 
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
