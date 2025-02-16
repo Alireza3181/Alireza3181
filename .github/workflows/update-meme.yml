@@ -15,7 +15,8 @@ jobs:
 
       - name: Fetch Meme
         run: |
-          curl -s https://meme-api.com/gimme/ProgrammerHumor | jq -r '.url' > meme_url.txt
+          curl -s "https://www.reddit.com/r/ProgrammerHumor/top.json?limit=1" | jq -r '.data.children[0].data.url_overridden_by_dest' > meme_url.txt
+
 
       - name: Update README
         run: |
