@@ -1,0 +1,31 @@
+name: Update Programming Meme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Meme
+        run: |
+          curl -s https://meme-api.com/gimme/ProgrammerHumor | jq -r '.url' > meme_url.txt
+
+      - name: Update README
+        run: |
+          meme_url=$(cat meme_url.txt)
+          sed -i "s|!\[Meme\](.*)|![Meme]($meme_url)|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Updated meme"
+          git push
