@@ -17,6 +17,9 @@
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
 <br>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Alireza3181&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
