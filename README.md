@@ -3,7 +3,7 @@
 <div align="center"> 
 <a align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
-![Meme](https://i.redd.it/6lcpz3xuq0ke1.png)
+![Meme](https://i.redd.it/8ccfuj9cbbke1.png)
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
 
 ## 🔗 Let's Connect!
