@@ -20,8 +20,9 @@
 - ✉️ Email: ar.af3181@gmail.com
 
 # Fuck GitHub streak bullshit
+<!-- 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=radical)
-
+-->
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
 <br>
 
