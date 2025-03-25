@@ -10,7 +10,7 @@
 ### 🔗 Do11.ir
 - 📝 [WebSite](https://do11.ir)
 - 📝 [Instagram](https://)
-- 📝 [ouTube](https://)
+- 📝 [YouTube](https://)
 - 📝 [LinkedIn](https://www.linkedin.com/company/do11ir)
 - 📝 [GitHub](https://github.com/do11ir)
 - ✉️ Email: do11ir.info@gmail.com
