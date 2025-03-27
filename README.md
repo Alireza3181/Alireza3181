@@ -9,12 +9,10 @@
 ## 🔗 Let's Connect!
 ### 🔗 Do11.ir
 - 📝 [WebSite](https://do11.ir)
-- 
-- 📝 [Instagram](https://)
-- 📝 [YouTube](https://)
-- 
 - 📝 [LinkedIn](https://www.linkedin.com/company/do11ir)
 - 📝 [GitHub](https://github.com/do11ir)
+- 📝 [Instagram](https://instagram.com/do11.ir)
+- 📝 [YouTube](https://www.youtube.com/@do11-ir)
 - ✉️ Email: do11ir.info@gmail.com
 
 ### 🔗 Personal
