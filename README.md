@@ -33,7 +33,6 @@
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Alireza3181&theme=radical)
 <br>
 
-
 ![snake gif](https://github.com/Alireza3181/Alireza3181/blob/output/github-snake-dark.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ad2d2d&height=120&section=footer"/>
