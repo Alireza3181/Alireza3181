@@ -24,7 +24,7 @@
 
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
 
-# Fuck GitHub streak bullshit
+# FuckGitHubStreakHorseShit
 <!-- 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alireza3181&theme=radical)
