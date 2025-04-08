@@ -8,7 +8,7 @@
 
 ## 🔗 Let's Connect!!
 
-### 🔗 Do11.ir
+### 🔗 Do11.ir:
 - 📝 [WebSite](https://do11.ir)
 - 📝 [LinkedIn](https://www.linkedin.com/company/do11ir)
 - 📝 [GitHub](https://github.com/do11ir)
@@ -16,7 +16,7 @@
 - 📝 [YouTube](https://www.youtube.com/@do11-ir)
 - ✉️ Email: do11ir.info@gmail.com
 
-### 🔗 Personal
+### 🔗 Personal:
 - 📝 [LinkedIn](https://linkedin.com/in/alireza3181)
 - 📝 [Telegram](https://t.me/Alir_aa)
 - 📝 [Instagram](https://instagram.com/alir_aa)
